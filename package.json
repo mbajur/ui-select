@@ -4,9 +4,9 @@
   "author": "http://github.com/angular-ui/ui-select/graphs/contributors",
   "homepage": "http://github.com/angular-ui/ui-select",
   "repository": {
-    "url": "git://github.com/angular-ui/ui-select.git"
+    "url": "git://github.com/mbajur/ui-select.git"
   },
-  "version": "0.12.1-mb",
+  "version": "0.12.2-mb",
   "devDependencies": {
     "bower": "~1.3",
     "del": "~0.1.1",
